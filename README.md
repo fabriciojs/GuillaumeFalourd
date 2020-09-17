@@ -7,7 +7,8 @@ I am Guillaume [Guiom], a Software Developer at [Zup Innovation](https://zup.com
 - 💯 Passionate about: Transforming complexity into simplicity, looking to impact the people around me in the best possible way.
 - 👯 I’m looking to collaborate on: Open source projects.
 - 💬 Ask me about: Ritchie, Java, Golang.
-- 📫 How to reach me?
+
+#### 📫 How to reach me?
 - [ ] guillaume.falourd@zup.com.br
 - [ ] [LinkedIn](https://www.linkedin.com/in/guillaumefalourd/)
 - [ ] [Twitter](https://twitter.com/GuiFalourd)
