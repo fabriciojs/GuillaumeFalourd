@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World 👋</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World !</h1>
 
 I am Guillaume [Guiom], a Software Developer at [Zup Innovation](https://zup.com.br) as well as [Ritchie CLI](https://github.com/ZupIT/ritchie-cli) Community Manager.
 
