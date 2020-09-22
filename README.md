@@ -5,7 +5,7 @@ I am Guillaume [Guiom], a Software Developer at [Zup Innovation](https://zup.com
 
 <p>
     <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />
-    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin%20GraphQL-311C87?style=flat-square&logo=kotlin&logoColor=white" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-311C87?style=flat-square&logo=kotlin&logoColor=white" />
     <img alt="Golang" src="https://img.shields.io/badge/-Golang-45b8d8?style=flat-square&logo=golang&logoColor=white" />
     <img alt="Shell" src="https://img.shields.io/badge/-Shell-F7B93E?style=flat-square&logo=shell&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-764ABC?style=flat-python&logo=redux&logoColor=white" />
