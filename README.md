@@ -2,7 +2,7 @@
 
 I am Guillaume [Guiom], a Software Developer at [Zup Innovation](https://zup.com.br).
 
-I'm in charge of the [Ritchie CLI](https://github.com/ZupIT/ritchie-cli) Community. Feel free to ask anything about this #opensource automation tool.
+I'm in charge of the [Ritchie CLI](https://github.com/ZupIT/ritchie-cli) Community, so feel free to ask me anything about this **opensource automation tool**.
 
 <p>
     <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />
