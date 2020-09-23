@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World !</h1>
 
-<h3>I am Guillaume [Guiom], a Software Developer at [Zup Innovation](https://zup.com.br) as well as [Ritchie CLI](https://github.com/ZupIT/ritchie-cli) Community Manager.<h3>
+I am Guillaume [Guiom], a Software Developer at [Zup Innovation](https://zup.com.br).
+
+I'm in charge of the [Ritchie CLI](https://github.com/ZupIT/ritchie-cli) Community. Feel free to ask anything about this #opensource automation tool.
 
 <p>
     <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />
