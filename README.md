@@ -2,7 +2,7 @@
 
 I'm a Software Developer and Community Manager at [Zup Innovation](https://zup.com.br).
 
-Feel free to ask me anything about ZupIT open source products: [CharlesCD](https://github.com/ZupIT/charlescd) [Ritchie CLI](https://github.com/ZupIT/ritchie-cli) [Beagle](https://github.com/ZupIT/beagle) [Horusec](https://github.com/ZupIT/horusec)
+Feel free to ask me anything about ZupIT open source products: [CharlesCD](https://github.com/ZupIT/charlescd) | [Ritchie CLI](https://github.com/ZupIT/ritchie-cli) | [Beagle](https://github.com/ZupIT/beagle) | [Horusec](https://github.com/ZupIT/horusec)
 
 <p>
     <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />
