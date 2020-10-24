@@ -19,7 +19,7 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
     <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-8DD6F9?style=flat-square&logo=kafka&logoColor=white" /> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&count_private=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeFalourd&count_private=true)
 
 ![Github stats](https://github-readme-stats.vercel.app/api/?username=GuillaumeFalourd&layout=compact&count_private=true&show_icons=true)
 
